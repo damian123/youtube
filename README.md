@@ -67,10 +67,10 @@ Run the code using Node.js by providing the filename as a command-line argument:
 node <filename_of_this_script.js> <path_to_video_file>
 ```
 
-For example, if the script is named `upload.js` and the video you wish to upload is named `my_video.mp4`:
+For example, if the script is named `index.js` and the video you wish to upload is named `my_video.mp4`:
 
 ```bash
-node upload.js my_video.mp4
+node index.js my_video.mp4
 ```
 
 ## Arguments
@@ -91,7 +91,7 @@ After running the script, a URL will be generated in your command-line interface
     For example:
     
     ```bash
-    node upload.js my_video.mp4
+    node index.js my_video.mp4
     ```
     
 2. Copy the URL printed in the console:
