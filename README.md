@@ -131,6 +131,7 @@ Once you've completed these steps, the script will proceed to upload the video t
 If you find this project helpful, you can support me by:
 
 - Buying me a coffee on [Buy Me a Coffee](https://www.buymeacoffee.com/TheRealDamian)
+[QR Code](https://github.com/damian123/youtube/raw/main/bmc_qr.png)
 
 Your support is much appreciated!
 
